@@ -15,3 +15,16 @@ A collection of my data analysis projects showcasing various skills and techniqu
   - **Data Source link**: [Link](https://www.kaggle.com/datasets/karnikakapoor/global-forest-data-2001-2022)
 
 [Link to Project](https://github.com/LFMoya01/Luis-s_portfolio/blob/c42681d9fb2a463e30dfe5324dc883e29bc7918d/Deforestation.ipynb)
+
+## Project 2: AUD/CLP price prediction
+
+- **Description**: The main purpose of this project is to use a basic linear regression in order to predict the short term price evolution of AUD/CLP.
+- **Tools and Technologies**: Python 3.11.7 running on Visual Studio Code, Jupyter Notebooks, Pandas, Matplotlib & seaborn.
+- **Key Achievements**:
+  - Data cleaning and preprocessing.
+  - Exploratory Data Analysis (EDA) visualizations.
+  - Linear regression.
+  - **Data information**: "Data shows the price evolution per day since January 2nd 2023"
+  - **Data Source link**: [Link]([https://www.kaggle.com/datasets/karnikakapoor/global-forest-data-2001-2022](https://www.investing.com/currencies/aud-clp-historical-data))
+
+[Link to Project](https://github.com/LFMoya01/Luis-s_portfolio/blob/c42681d9fb2a463e30dfe5324dc883e29bc7918d/Deforestation.ipynb)
