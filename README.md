@@ -25,6 +25,6 @@ A collection of my data analysis projects showcasing various skills and techniqu
   - Exploratory Data Analysis (EDA) visualizations.
   - Linear regression.
   - **Data information**: "Data shows the price evolution per day since January 2nd 2023"
-  - **Data Source link**: [Link]([https://www.kaggle.com/datasets/karnikakapoor/global-forest-data-2001-2022](https://www.investing.com/currencies/aud-clp-historical-data))
+  - **Data Source link**: [Link]([https://www.investing.com/currencies/aud-clp-historical-data])
 
-[Link to Project](https://github.com/LFMoya01/Luis-s_portfolio/blob/c42681d9fb2a463e30dfe5324dc883e29bc7918d/Deforestation.ipynb)
+[Link to Project](https://github.com/LFMoya01/Luis-s_portfolio/blob/5c39a2aa48a7811e27be416194e265d2b7660c00/Cosas/CLPAUDEstimation.py)
