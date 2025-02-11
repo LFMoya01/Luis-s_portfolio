@@ -1,7 +1,7 @@
 # Luis-s_portfolio
 # Data Analyst Portfolio
 
-A collection of my data analysis projects showcasing various skills and techniques in the field of data analysis.
+A brief collection of my data analysis projects showcasing various skills and techniques in the field of data analysis. It is only an insight to my habilites and also you can read more about my [mindset]()
 
 ## Project 1: Chile deforestation and relationship with net carbon emissions
 
