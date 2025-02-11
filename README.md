@@ -28,3 +28,14 @@ A collection of my data analysis projects showcasing various skills and techniqu
   - **Data Source link**: [Link](https://www.investing.com/currencies/aud-clp-historical-data)
 
 [Link to Project](https://github.com/LFMoya01/Luis-s_portfolio/blob/5c39a2aa48a7811e27be416194e265d2b7660c00/Cosas/CLPAUDEstimation.py)
+
+## NDA protected projects
+
+- Due to the signature of NDA with my clients/employer I am unable to reproduce the followings projects and only 5 projects from a total of 15 can be mentioned with a basic description. This is the backbone of my Data analyst career since 2019.
+
+- **Protected project 1, client: Chilean goverment, Year:2019**: Utilize OSINT and give some insights about improvements in public safety. Tech and Tools: Propietary software
+- **Protected project 2, client: Huawei Chile for WOM Chile, Year:2023**: Provide insigths about the energization of the "Austral optical fibre project" in remote areas in Southern Chile. Tech and Tools: Huawei Threecloud Ecosystem
+- **Protected project 3, client: Huawei Chile, Year:2023**: Comparation of emergency energy methods for MBB (Mobile BroadBand) and FBB (Fixed BroadBand) in different scenarios, the main goal was get a cost/effieciency solution. Tech and Tools: Huawei Threecloud Ecosystem
+- **Protected project 4, client: Private hiring, Year:2024**: Realize deep analysis about the installation of an off-grid "Crypto mining" farm in the Chilean Patagonia. Tech and Tools: Python 3, Geopandas, numpy, matplotlib, seaborn and pvlib.
+- **Protected project 5, client: CMPC Biopacking, Year:2024**: Check factibility for a hybrid biomass-solar energy project to power the paperboard production line . Tech and Tools: MATLAB Simulink, PLECS, Python 3, matplotlib, seaborn, Geopandas and pvlib.
+
