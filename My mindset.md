@@ -22,4 +22,4 @@ An analyst must not only identify solutions but also determine the most cost-eff
 - Evaluating a country’s primary energy sources and understanding how its evolving energy mix relates to climatic conditions.
 
 ## Future Prospects
-There are numerous potential projects where I can apply my skills, from energy analytics to broader economic and environmental studies even getting mor involved in Quantum programming. I am eager to contribute to meaningful projects that leverage data analytics to drive informed decision-making and problem-solving.
+There are numerous potential projects where I can apply my skills, from energy analytics to broader economic and environmental studies even getting more involved in Quantum programming. I am eager to contribute to meaningful projects that leverage data analytics to drive informed decision-making and problem-solving.
