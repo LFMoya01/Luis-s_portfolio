@@ -3,7 +3,7 @@
 
 A brief collection of my data analysis projects showcasing various skills and techniques in the field of data analysis. It is only an insight to my habilites and also you can read more about my [mindset](https://github.com/LFMoya01/Luis-s_portfolio/blob/main/My%20mindset).
 
-## Project 1: Chile deforestation and relationship with net carbon emissions
+## Project: Chile deforestation and relationship with net carbon emissions
 
 - **Description**: The main purpose of this project is to visualize the relationship between the net carbon emissions and the deforestation in the country for a forest canopy threshold of 75 percent.
 - **Tools and Technologies**: Python 3.11.7 running on Visual Studio Code, Jupyter Notebooks, Pandas, Matplotlib & seaborn.
@@ -16,7 +16,7 @@ A brief collection of my data analysis projects showcasing various skills and te
 
 [Link to Project](https://github.com/LFMoya01/Luis-s_portfolio/blob/c42681d9fb2a463e30dfe5324dc883e29bc7918d/Deforestation.ipynb)
 
-## Project 2: AUD/CLP price prediction
+## Project: AUD/CLP price prediction
 
 - **Description**: The main purpose of this project is to use a basic linear regression in order to predict the short term price evolution of AUD/CLP.
 - **Tools and Technologies**: Python 3.11.7 running on Visual Studio Code, Jupyter Notebooks, Pandas, Matplotlib & seaborn.
@@ -28,6 +28,20 @@ A brief collection of my data analysis projects showcasing various skills and te
   - **Data Source link**: [Link](https://www.investing.com/currencies/aud-clp-historical-data)
 
 [Link to Project](https://github.com/LFMoya01/Luis-s_portfolio/blob/5c39a2aa48a7811e27be416194e265d2b7660c00/Cosas/CLPAUDEstimation.py)
+
+## Project (Under development): Evolution of Chile Energy Mix and prediction by 2030
+
+- **Description**: Visualize the evolution of the energy mix in chile and use ML algorithms to predict the trend by 2030.
+- **Tools and Technologies**: Python 3.11.7 running on Visual Studio Code, Jupyter Notebooks, Pandas, Matplotlib & seaborn.
+- **Key Achievements**:
+  - Data cleaning and preprocessing.
+  - Exploratory Data Analysis (EDA) visualizations.
+  - XGBoost
+  - **Data information**: "CNE Historical Data"
+  - **Data Source link**: [Link]()
+
+[Link to Project]()
+
 
 ## NDA protected projects
 
