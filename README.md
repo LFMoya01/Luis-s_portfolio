@@ -4,7 +4,7 @@ Welcome to my **Data Analyst Portfolio**! This is a collection of my projects sh
 
 📍 **Location:** Adelaide, Australia 🇦🇺 | Santiago, Chile 🇨🇱  
 🎓 **Background:** Electrical Engineer | Data Analyst | Renewable Energy Enthusiast  
-🔍 **Focus Areas:** Data Science, Power Systems, Energy Markets, Financial Analysis  
+🔍 **Focus Areas:** Data Analysis, Power Systems, Energy Markets, Financial Analysis  
 
 ---
 
@@ -51,7 +51,7 @@ Welcome to my **Data Analyst Portfolio**! This is a collection of my projects sh
 
 ## 🔒 NDA-Protected Projects  
 
-Since 2019, I’ve worked on **15+ data analytics projects**, many of which are under **Non-Disclosure Agreements (NDA)**. Below are **5 projects** I can mention with basic descriptions:  
+Since 2019, I’ve worked on **15+ data analytics projects**, many of which are under **Non-Disclosure Agreements (NDA)**. Below are **6 projects** I can mention with basic descriptions:  
 
 1️⃣ **Public Safety Insights (2019) – Chilean Government**  
    - **Goal:** OSINT data analysis for public safety improvements.  
@@ -71,8 +71,11 @@ Since 2019, I’ve worked on **15+ data analytics projects**, many of which are 
 
 5️⃣ **Hybrid Biomass-Solar Energy Project (2024) – CMPC Biopacking**  
    - **Goal:** Feasibility study for **solar + biomass energy** in paperboard production.  
-   - **Tools:** MATLAB Simulink, PLECS, Python, pvlib  
-
+   - **Tools:** MATLAB Simulink, PLECS, Python, pvlib
+     
+6️⃣**Crypto adoption in Chile (2024) – Private client**  
+   - **Goal:** Explore the adoption and impact of **cryptocurrencies** in Chile and contrast the results with the rest of Latin America and Worldwide
+   - **Tools:** Python, Pandas, numpy, Tableau, MS Excel.
 ---
 
 ## 🧪 Laboratory Testing Reports  
